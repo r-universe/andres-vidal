@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "ppforest2"]
 	path = ppforest2
-	url = https://github.com/cran/ppforest2
+	url = https://github.com/andres-vidal/ppforest2-r
